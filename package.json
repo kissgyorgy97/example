@@ -1,0 +1,19 @@
+{
+  "name": "zeppelin-solidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "python": "0.0.4",
+    "truffle": "^4.1.7",
+    "truffle-hdwallet-provider": "0.0.3"
+  }
+}
